@@ -127,5 +127,8 @@ All notable changes to `laravel-cloudflare-stream` will be documented here.
 ### 1.0.0 - 2020-06-12
 * initial release
 
+### 1.0.1 - 2023-12-19
+* Updated to work with Laravel 10 and it's dependencies
+
 ## License
 `laravel-cloudflare-stream` is distributed under the terms of the [MIT License](LICENSE).
